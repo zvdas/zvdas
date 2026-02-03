@@ -4,7 +4,7 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me 
   -  portfolio: zvdas.github.io
-  -  linkedin: https://www.linkedin.com/in/judeson-brian-rodriguez-764439b5
+  -  linkedin: https://www.linkedin.com/in/zvdas
 
 <!---
 zvdas/zvdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
