@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @zvdas
-- 👀 I’m a Web Developer
-- 🌱 I’m currently working in Angular, Firebase
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me 
-  -  portfolio: zvdas.github.io
-  -  linkedin: https://www.linkedin.com/in/zvdas
+👋 Hi, I’m Jude Rodriguez (@zvdas)
+Full Stack Developer specializing in Angular and Firebase, with hands-on experience in backend scripting using Firebase Cloud Functions (Node.js).
+
+I design modular, scalable web applications with a focus on architecture, data flow, and secure authentication systems.
+
+🔹 Frontend: Angular, TypeScript
+🔹 Backend: Firebase (Auth, Firestore, Cloud Functions)
+🔹 Focus: Structured architecture, real-time systems, and clean code practices
+
+📌 Portfolio: https://zvdas.github.io
+📌 LinkedIn: https://www.linkedin.com/in/zvdas
 
 <!---
 zvdas/zvdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
