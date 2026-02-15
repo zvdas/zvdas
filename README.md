@@ -8,6 +8,7 @@ I design modular, scalable web applications with a focus on architecture, data f
 🔹 Focus: Structured architecture, real-time systems, and clean code practices
 
 📌 Portfolio: https://zvdas.github.io
+
 📌 LinkedIn: https://www.linkedin.com/in/zvdas
 
 <!---
