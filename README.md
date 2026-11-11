@@ -1,20 +1,25 @@
-👋 Hi, I’m Judeson Rodriguez (@zvdas)
+## Hi, I'm Judeson Rodriguez (@zvdas) 👋
 
-Full Stack Developer specializing in Angular and Firebase, with hands-on experience in backend scripting using Firebase Cloud Functions (Node.js).
+Senior full stack developer in Bengaluru. For three years I built and ran production Angular and Firebase applications at an edtech company, most recently as technical lead of a five-developer team.
 
-I design modular, scalable web applications with a focus on architecture, data flow, and secure authentication systems.
+- **Led the team:** set technical direction, made architecture decisions and reviewed junior developers' code
+- **Designed** a multi-project architecture that let several apps share Angular components and Firebase logic
+- **Built ScriptRunner**, a Node.js tool for Firestore data operations that all five developers used across projects
+- **Introduced** a separate Firebase test environment, so features were validated before they reached production
 
-🔹 Frontend: Angular, TypeScript
+### 🧰 Stack
 
-🔹 Backend: Firebase (Auth, Firestore, Cloud Functions)
+- **Frontend:** Angular · TypeScript · RxJS · Angular Material
+- **Backend & cloud:** Node.js · Firebase (Auth, Firestore, Cloud Functions) · REST APIs · Google Workspace APIs · Gemini API
+- **Also:** SQL · Python · Express · MongoDB · React
 
-🔹 Focus: Structured architecture, real-time systems, and clean code practices
+### 🔧 Rebuilding in public
 
-📌 Portfolio: https://zvdas.github.io
+I'm rebuilding my older portfolio projects to production standard: security fixes, real tests and UX redesigns, with write-ups on what was broken and how I fixed it. I use AI as a mentor; the work is mine.
 
-📌 LinkedIn: https://www.linkedin.com/in/zvdas
+### 📫 Find me
 
-<!---
-zvdas/zvdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Portfolio: [zvdas.com](https://zvdas.com)
+- LinkedIn: [linkedin.com/in/zvdas](https://www.linkedin.com/in/zvdas)
+
+Open to senior full stack and SDE-2 roles (Angular + Node.js) in Bengaluru. Available immediately.
